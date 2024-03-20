@@ -56,6 +56,7 @@
             <img src="https://img.shields.io/badge/Vue.js-6DB33F?style=flat-square&logo=vue.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react&logoColor=blue"/>
 		<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+		<img src="https://img.shields.io/badge/vuex?style=flat-square"/>
         </td>
     </tr>
     <tr>
