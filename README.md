@@ -48,7 +48,6 @@
         <td>
             <img src="https://img.shields.io/badge/PYTHON-00599C?style=flat-square&logo=python&logoColor=white">
 	          <img src="https://img.shields.io/badge/JavaScript-F8FC00?style=flat-square&logo=javascript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/>
         </td>
     </tr>
 	<tr>
