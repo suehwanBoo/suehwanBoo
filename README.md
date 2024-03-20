@@ -18,7 +18,7 @@
     <th>State</th>
   </tr>
   <tr>
-    <td>MSG - Mafia in SNS Game</td>
+    <td><a link="https://github.com/d109-msg">MSG - Mafia in SNS Game</a></td>
     <td>기존 SNS에 마피아 게임의 요소를 더하여 SNS 피드를 올리는 행위를 하나의 게임 미션으로 만들었습니다. 
       <br/><br/>이를 AI가 검증 미션을 하며 마피아 게임을 즐기는 SNS 형태의 게임입니다.</td>
     <td>
