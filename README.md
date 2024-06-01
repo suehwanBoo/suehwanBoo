@@ -17,6 +17,44 @@
     <th>Period</th>
     <th>State</th>
   </tr>
+	<tr>
+    <td>[Tripeer] <br/>(https://github.com/SSAFY-3rdPJT-Tripeer/Tripeer)</td>
+    <td>실시간 여행 계획 협업 플랫폼
+      </td>
+    <td>
+          <img src="https://img.shields.io/badge/3-Backend-83B81A?style=flat-square"/><br>
+          <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Leader-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      2024.04
+      <br/>~
+      <br/>2024.05
+    </td>
+    <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
+    
+  </tr>
+	<tr>
+    <td>[IBalance]<br/>(https://github.com/D108-IBalance/IBalance)</td>
+    <td>우리 아이 맞춤형 식단 추천 서비스
+      </td>
+    <td>
+          <img src="https://img.shields.io/badge/4-Backend-83B81A?style=flat-square"/><br>
+          <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend%20Leader-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      2024.03
+      <br/>~
+      <br/>2024.04
+    </td>
+    <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
+    
+  </tr>
   <tr>
     <td>[MSG - Mafia in SNS Game](https://github.com/d109-msg)</td>
     <td>기존 SNS에 마피아 게임의 요소를 더하여 SNS 피드를 올리는 행위를 하나의 게임 미션으로 만들었습니다. 
@@ -29,9 +67,9 @@
       <img src="https://img.shields.io/badge/Frontend%20Leader-31A8FF?style=flat-square"/>
     </td>
     <td>
-      2024.01.08
+      2024.01
       <br/>~
-      <br/>2024.02.16
+      <br/>2024.02
     </td>
     <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
     
@@ -54,10 +92,12 @@
         <td>Framework</td>
         <td>
             <img src="https://img.shields.io/badge/Vue.js-6DB33F?style=flat-square&logo=vue.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react&logoColor=blue"/>
 		<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 		<img src="https://img.shields.io/badge/VueX-6DB33F?style=flat-square&logo=VueX&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Pinia-F8FC00?style=flat-square&logo=Pinia&logoColor=white"/>
+		<img src="https://img.shields.io/badge/ZUSTAND-1572B6?style=flat-square&logo=Pinia&logoColor=white"/>
         </td>
     </tr>
     <tr>
