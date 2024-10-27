@@ -7,6 +7,17 @@
 <li>My major is Sociology🎓</li>
 <br/>
 <br/>
+
+## [ PORTFOLIO ]
+🔗 [Portfolio](https://github.com/suehwanBoo/PortFolio/blob/main/PORTFOLIO_SUEHWANBOO.pdf)
+ </div>
+<hr></hr>
+<br/>
+<br/>
+
+</div>
+
+
 <h3>🎢Project</h3>
 <table>
   <tr>
