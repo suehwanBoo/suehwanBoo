@@ -2,8 +2,8 @@
 
 <h3>😎Who am I?</h3>
 <li>I was born in Pohang, Korea in 1998🐣</li>
-<li>I'm Currently live in Gumi🏠</li>
-<li>Now I'm stundying at Samsung SW Academy🖥</li>
+<li>I'm Currently live in Daegu🏠</li>
+<li>I was studied at Samsung SW Academy🖥</li>
 <li>My major is Sociology🎓</li>
 <br/>
 <br/>
@@ -27,6 +27,25 @@
     <th>My Role</th>
     <th>Period</th>
     <th>State</th>
+  </tr>
+		<tr>
+    <td>[Tripeer for 한국관광공사] <br/>(https://github.com/Tripeer-contest/frontend)</td>
+    <td>실시간 여행 계획 협업 플랫폼
+      </td>
+    <td>
+          <img src="https://img.shields.io/badge/3-Backend-83B81A?style=flat-square"/><br>
+          <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Leader-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      2024.08
+      <br/>~
+      <br/>2024.10
+    </td>
+    <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
+    
   </tr>
 	<tr>
     <td>[Tripeer] <br/>(https://github.com/SSAFY-3rdPJT-Tripeer/Tripeer)</td>
@@ -154,10 +173,16 @@
             <img src="https://img.shields.io/badge/VS Code-4100FC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
         </td>
     </tr>
+	<tr>
+        <th>Infra</th>
+        <td colspan="2">
+            S3, IAM, CloudFront, ACM, Github-Action
+        </td>
+    </tr>
     <tr>
         <th>🏆 Algorithm</th>
         <td colspan="2">
-            <img src="https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/JavaScript-F8FC00?style=flat-square&logo=javascript&logoColor=black"/>
         </td>
     </tr>
 </table>	
