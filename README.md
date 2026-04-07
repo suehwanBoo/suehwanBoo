@@ -29,7 +29,6 @@
 	          <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=black"/>
 			<img src="https://img.shields.io/badge/PYTHON-00599C?style=flat-square&logo=python&logoColor=white">
             <img src="https://img.shields.io/badge/JAVA-00599C?style=flat-square&logo=java&logoColor=white">
-			
         </td>
     </tr>
 	<tr>
@@ -37,7 +36,7 @@
         <td>
 		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react&logoColor=blue"/>
-			            <img src="https://img.shields.io/badge/Vue.js-6DB33F?style=flat-square&logo=vue.js&logoColor=white"/>
+			<img src="https://img.shields.io/badge/Vue.js-6DB33F?style=flat-square&logo=vue.js&logoColor=white"/>
         </td>
     </tr>
 	<tr>
