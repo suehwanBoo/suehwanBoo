@@ -44,12 +44,6 @@
             S3, IAM, CloudFront, ACM, Github-Action, R2, Cloudflare-Pages, Docker, Turborepo, Monorepo, Jenkins
         </td>
     </tr>
-    <tr>
-        <th>🏆 Algorithm</th>
-        <td colspan="2">
-            <img src="https://img.shields.io/badge/JavaScript-F8FC00?style=flat-square&logo=javascript&logoColor=black"/>
-        </td>
-    </tr>
 </table>	
 
 
